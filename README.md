@@ -1,8 +1,8 @@
-### Hey, innovators 👋
+# Hey, innovators 👋
 
 🎯 Passionate about **Innovation, Technology & Entrepreneurship** 🎯
 
-### 🎓Academic background:
+## 🎓Academic background:
 
 - 💡 Master of Science: **Management Engineering** (Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
 - 🤖 Bachelor Degree: **Mechatronics Engineering** at @**Escola Politecnia da USP**, Brazil :brazil:
@@ -14,7 +14,10 @@
 - (building)
 
 ---
+## ☎️ Contacts
+
 ✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
+
 
 
 
