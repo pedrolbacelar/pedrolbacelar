@@ -4,7 +4,7 @@
 
 ### 🎓Academic background:
 
-- 💡 Master of Science: **Management Engineering** (major in Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
+- 💡 Master of Science: **Management Engineering** (Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
 - 🤖 Bachelor Degree: **Mechatronics Engineering** at @**Escola Politecnia da USP**, Brazil :brazil:
 - 🎨 Full **Design Thinking** course at @**Hasso Plattner Institute** (HPI), Germany :de:
 
