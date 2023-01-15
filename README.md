@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hey, innovators 👋
+
+🎯 Passionate about **Innovation, Technology & Entrepreneurship** 🎯
+
+### 🎓Academic background:
+
+- 💡 Master of Science: **Management Engineering** (major in Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
+- 🤖 Bachelor Degree: **Mechatronics Engineering** at @**Escola Politecnia da USP**, Brazil :brazil:
+- 🎨 Full **Design Thinking** course at @**Hasso Plattner Institute** (HPI), Germany :de:
+
+---
+
+## ⚒️ Projects
+- (building)
+
+---
+✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
+
+
+
 
 <!--
 **pedrolbacelar/pedrolbacelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
