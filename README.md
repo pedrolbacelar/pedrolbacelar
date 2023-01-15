@@ -11,7 +11,8 @@
 ---
 
 ## ⚒️ Projects
-- (building)
+- Current working in a Digital Twin project in partnership with @Politecnico di Milano. (Possibility of the library become public soon)
+- (building ...)
 
 ---
 ## ☎️ Contacts
