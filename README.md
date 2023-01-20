@@ -21,10 +21,11 @@
 
 ---
 ## 📈 GitHub Status
-
-[![Anurag's GitHub stats](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=pedrolbacelar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=pedrolbacelar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=pedrolbacelar&count_private=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolbacelar)](https://github.com/anuraghazra/github-readme-stats)
 
 **pedrolbacelar/pedrolbacelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
