@@ -13,14 +13,14 @@
   - Python (Oriented Object and Library Driven)
   - Discrete Even Simulation
   - SQL, MQTT
- 
+
 - 🧩 **DigiMind (Siemens Competition):** DigiMind is an application of MindSphere IoT Platform created for its Siemens Challenge. The project developed was selected as the Winner of the challenge. The service developed is used to predict the remaining cycle time of a part in the system using Machine Learning models. The Machine Learning predictions comunicates with the platform using the available APIs.
 
   **SKILSS:**
   - Python
   - Machine Learning (supervised prediction)
   - API
-  
+ 
 - 🔦 **insPACKtor:** Startup focused in Predictive Mantainance. The highlight project predicts when a certain reservatory presents a potencial fail based on the sound and noise of itself. For that a supervised Machine Learning prediction was implemented using Tensor Flow Ligth to be able to run the model within the limitations of micro-computers Raspberry Pi 4 models.
 
   **SKILSS:**
