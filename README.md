@@ -2,17 +2,33 @@
 
 🎯 Passionate about **Innovation, Technology & Entrepreneurship** 🎯
 
+## ⚒️ Projects
+- 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
+
+  Library available on PYPY: https://pypi.org/project/dtwinpy/
+  
+  Paper at Winter Simulation Conference 2023: (under-review)
+
+  **SKILLS:**
+  - Python (Oriented Object and Library Driven)
+  - Discrete Even Simulation
+  - SQL, MQTT
+ 
+- 🧩 **DigiMind (Siemens Competition):** DigiMind is an application of MindSphere IoT Platform created for its Siemens Challenge. The project developed was selected as the Winner of the challenge. The service developed is used to predict the remaining cycle time of a part in the system using Machine Learning models. The Machine Learning predictions comunicates with the platform using the available APIs.
+
+  **SKILSS:**
+  - Python
+  - Machine Learning (supervised prediction)
+  - API
+  
+- 
+---
+
 ## 🎓Academic background:
 
 - 💡 Master of Science: **Management Engineering** (Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
 - 🤖 Bachelor Degree: **Mechatronics Engineering** at @**Escola Politecnia da USP**, Brazil :brazil:
 - 🎨 Full **Design Thinking** course at @**Hasso Plattner Institute** (HPI), Germany :de:
-
----
-
-## ⚒️ Projects
-- 💪 Current working in a Digital Twin project in partnership with @Politecnico di Milano. (Possibility of the library become public soon)
-- (building ...)
 
 ---
 ## ☎️ Contacts
