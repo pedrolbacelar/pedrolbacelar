@@ -21,6 +21,13 @@
   - Machine Learning (supervised prediction)
   - API
   
+- 🔦 **insPACKtor:** Startup focused in Predictive Mantainance. The highlight project predicts when a certain reservatory presents a potencial fail based on the sound and noise of itself. For that a supervised Machine Learning prediction was implemented using Tensor Flow Ligth to be able to run the model within the limitations of micro-computers Raspberry Pi 4 models.
+
+  **SKILSS:**
+  - Python
+  - Machine Learning (supervised prediction)
+  - Eletronics
+
 - 
 ---
 
