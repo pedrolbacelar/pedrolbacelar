@@ -28,7 +28,12 @@
   - Machine Learning (supervised prediction)
   - Eletronics
 
-- 
+- 🎯**TTtracking:** A low level open source library developed to track time spend in tasks, financial expenses and repetitive learning (Anki-like). The library was build to be practical to use with the communication with the Terminal.
+
+  **SKILSS:**
+  - Python
+  - SQL
+
 ---
 
 ## 🎓Academic background:
