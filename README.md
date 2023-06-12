@@ -7,7 +7,7 @@
 
   Library available on PYPY: https://pypi.org/project/dtwinpy/
   
-  Paper at Winter Simulation Conference 2023: (under-review)
+  Paper at Winter Simulation Conference 2023: (under-review) http://dx.doi.org/10.13140/RG.2.2.26800.02567
 
   **SKILLS:**
   - Python (Oriented Object and Library Driven)
