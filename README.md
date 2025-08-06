@@ -1,38 +1,25 @@
-# Hey, innovators 👋
+# Hello 👋
 
-🎯 Passionate about **Innovation, Technology & Entrepreneurship** 🎯
+### > Passionate about entrepreneurship!
+### > Currently Building AI Agents for Logistic & Transportation companies at @Botizou AI .
+### > Tell me something you've built :)
 
 ## ⚒️ Projects
 - 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
 
   Library available on PYPY: https://pypi.org/project/dtwinpy/
-  
-  Paper at Winter Simulation Conference 2023: (under-review) http://dx.doi.org/10.13140/RG.2.2.26800.02567
+  Paper at Winter Simulation Conference 2023: https://ieeexplore.ieee.org/document/10407531
 
-  **SKILLS:**
-  - Python (Oriented Object and Library Driven)
-  - Discrete Even Simulation
-  - SQL, MQTT
 
 - 🧩 **DigiMind (Siemens Competition):** DigiMind is an application of MindSphere IoT Platform created for its Siemens Challenge. The project developed was selected as the Winner of the challenge. The service developed is used to predict the remaining cycle time of a part in the system using Machine Learning models. The Machine Learning predictions comunicates with the platform using the available APIs.
 
-  **SKILSS:**
-  - Python
-  - Machine Learning (supervised prediction)
-  - API
  
 - 🔦 **insPACKtor:** Startup focused in Predictive Mantainance. The highlight project predicts when a certain reservatory presents a potencial fail based on the sound and noise of itself. For that a supervised Machine Learning prediction was implemented using Tensor Flow Ligth to be able to run the model within the limitations of micro-computers Raspberry Pi 4 models.
 
-  **SKILSS:**
-  - Python
-  - Machine Learning (supervised prediction)
-  - Eletronics
 
 - 🎯**TTtracking:** A low level open source library developed to track time spend in tasks, financial expenses and repetitive learning (Anki-like). The library was build to be practical to use with the communication with the Terminal.
 
-  **SKILSS:**
-  - Python
-  - SQL
+
 
 ---
 
@@ -45,7 +32,7 @@
 ---
 ## ☎️ Contacts
 
-✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
+✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/p-bacelar/)!
 
 ---
 ## 📈 GitHub Status
