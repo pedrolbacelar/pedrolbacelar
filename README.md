@@ -1,7 +1,9 @@
 # Hello 👋
 
 > Passionate about entrepreneurship!
+
 > Currently Building AI Agents for Logistic & Transportation companies at @Botizou AI .
+
 > Tell me something you've built :)
 
 ## ⚒️ Projects
