@@ -10,6 +10,7 @@
 - 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
 
   Library available on PYPY: https://pypi.org/project/dtwinpy/
+  
   Paper at Winter Simulation Conference 2023: https://ieeexplore.ieee.org/document/10407531
 
 
