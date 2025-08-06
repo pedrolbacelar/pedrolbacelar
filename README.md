@@ -7,6 +7,8 @@
 > Tell me something you've built :)
 
 ## ⚒️ Projects
+- 👀 **LLMs**: As one of the 80 brazilians selected to the biggest AI Hackthon in brasil, we build an SDK API for evaluating LLM applications specifically in Healthcare. The goals is to use our library as Dev Tool, being simple to operate. Landing page available: https://vizeval.com/
+
 - 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
 
   Library available on PYPY: https://pypi.org/project/dtwinpy/
