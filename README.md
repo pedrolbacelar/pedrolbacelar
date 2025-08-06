@@ -1,8 +1,8 @@
 # Hello 👋
 
-### > Passionate about entrepreneurship!
-### > Currently Building AI Agents for Logistic & Transportation companies at @Botizou AI .
-### > Tell me something you've built :)
+#### > Passionate about entrepreneurship!
+#### > Currently Building AI Agents for Logistic & Transportation companies at @Botizou AI .
+#### > Tell me something you've built :)
 
 ## ⚒️ Projects
 - 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
