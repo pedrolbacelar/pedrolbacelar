@@ -1,65 +1,19 @@
-# Hello 👋
+# Pedro Bacelar
 
-> Passionate about entrepreneurship!
+Background in startups and supply chain projects. Did research on digital twins for manufacturing at Politecnico di Milano, published at the Winter Simulation Conference 2023. Now building a digital twin platform for supply chain networks — first paper on the current work coming soon.
 
-> Currently Building AI Agents for Logistic & Transportation companies at @Botizou AI .
+## Digital Twin Library
 
-> Tell me something you've built :)
+Open-source library using SimPy to create real-time digital twins based on discrete event simulation for manufacturing systems. Includes synchronization, validation, and prediction of remaining cycle time — with feedback to the physical system for better decision-making. Built in partnership with the Lego Factory lab at Politecnico di Milano.
 
-## ⚒️ Projects
-- 👀 **LLMs**: Selected as one of 80 participants for Brazil's largest AI Hackathon, I co-developed an SDK/API designed to evaluate LLM-based applications in the healthcare domain. The goal was to create a developer-friendly tool for testing and validating AI responses, with a strong focus on usability and simplicity.
-🔗 https://vizeval.com/
+- PyPI: https://pypi.org/project/dtwinpy/
+- Paper (WSC 2023): https://ieeexplore.ieee.org/document/10407531
 
-- 🤖 **Digital Twin**: Library using Simpy to create a real-time Digital Twin based on Descrete Even Simulation for Manufactoring System. The architecture contains Synchronization, Validation and Prediction of the Remaining Cycle Time of work-pieces in the system - also capable to give feedback to the physical system to improve decision-making. The project was done in partnership with Lego Factory laboratory from Politecnico di Milano. 
+## Education
 
-  Library available on PYPY: https://pypi.org/project/dtwinpy/
-  
-  Paper at Winter Simulation Conference 2023: https://ieeexplore.ieee.org/document/10407531
+- MSc Management Engineering — Politecnico di Milano
+- BEng Mechatronics Engineering — Escola Politecnica da USP
 
+## Contact
 
-- 🧩 **DigiMind (Siemens Competition):** DigiMind is an application of MindSphere IoT Platform created for its Siemens Challenge. The project developed was selected as the Winner of the challenge. The service developed is used to predict the remaining cycle time of a part in the system using Machine Learning models. The Machine Learning predictions comunicates with the platform using the available APIs.
-
- 
-- 🔦 **insPACKtor:** Startup focused in Predictive Mantainance. The highlight project predicts when a certain reservatory presents a potencial fail based on the sound and noise of itself. For that a supervised Machine Learning prediction was implemented using Tensor Flow Ligth to be able to run the model within the limitations of micro-computers Raspberry Pi 4 models.
-
-
-- 🎯**TTtracking:** A low level open source library developed to track time spend in tasks, financial expenses and repetitive learning (Anki-like). The library was build to be practical to use with the communication with the Terminal.
-
-
-
----
-
-## 🎓Academic background:
-
-- 💡 Master of Science: **Management Engineering** (Entrepreneurship Management) at @**Politecnico di Milano**, Italy :it:
-- 🤖 Bachelor Degree: **Mechatronics Engineering** at @**Escola Politecnia da USP**, Brazil :brazil:
-- 🎨 Full **Design Thinking** course at @**Hasso Plattner Institute** (HPI), Germany :de:
-
----
-## ☎️ Contacts
-
-✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/p-bacelar/)!
-
----
-## 📈 GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=pedrolbacelar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=pedrolbacelar&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolbacelar)](https://github.com/anuraghazra/github-readme-stats)
-
-**pedrolbacelar/pedrolbacelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/p-bacelar/)
