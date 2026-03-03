@@ -14,10 +14,6 @@ Open-source library using SimPy to create real-time digital twins based on discr
 - MSc Management Engineering — Politecnico di Milano
 - BEng Mechatronics Engineering — Escola Politecnica da USP
 
-## GitHub Stats
-
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolbacelar&show_icons=true&include_all_commits=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/p-bacelar/)
