@@ -1,4 +1,4 @@
-# Pedro Bacelar
+# Hello world, I'm Bacelar 👋
 
 Background in startups and supply chain projects. Did research on digital twins for manufacturing at Politecnico di Milano, published at the Winter Simulation Conference 2023. Now building a digital twin platform for supply chain networks — first paper on the current work coming soon.
 
